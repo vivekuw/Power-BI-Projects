@@ -1,6 +1,6 @@
 📊 Healthcare Dashboard: Inpatient and Outpatient Analysis
 🏥 Project Overview
-This Power BI dashboard provides a comprehensive analysis of inpatient and outpatient data, helping stakeholders gain insights into patient trends, service utilization, and key performance metrics for operational efficiency
+  This Power BI dashboard provides a comprehensive analysis of inpatient and outpatient data, helping stakeholders gain insights into patient trends, service utilization, and key           performance metrics for operational efficiency
 🎯 Key Objectives
   Visualize trends in inpatient and outpatient admissions.
   Compare service utilization between inpatient and outpatient care.
