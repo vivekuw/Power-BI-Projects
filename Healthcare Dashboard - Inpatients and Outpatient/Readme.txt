@@ -20,4 +20,5 @@
   Add KPIs for patient satisfaction and treatment outcomes.
   Enable real-time data integration with hospital management systems.
 💡 Contribution
-  We welcome contributions! If you have suggestions for improvements
+  We welcome contributions! If you have suggestions for improvements.
+
